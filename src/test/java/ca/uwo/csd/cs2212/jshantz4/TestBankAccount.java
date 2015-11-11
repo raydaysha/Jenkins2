@@ -14,3 +14,4 @@ public void testDebitWithSufficientFunds() {
 
     Assert.assertEquals(5.0, amount);
 }
+}
